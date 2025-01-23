@@ -40,7 +40,8 @@ Our seach includes the following HzRG candidate catalogues:
 * J0948.6-8327
 * J1705.1-8210
 
-The catalogues are provided in one big file in fits format for ease of use. Each entry includes pertinent information such as source name, coordinates, flux densities, angular sizes, spectral indices and field names.
+The catalogues are provided in one big file in ``fits`` format for ease of use. Each entry includes pertinent information such as source name, coordinates, flux densities, angular sizes, spectral indices and field names.
+
 
 
 
