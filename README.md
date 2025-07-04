@@ -6,9 +6,9 @@ This repository is dedicated to the High-Redshift Radio Galaxy (HzRG) catalogues
 High-Redshift Radio Galaxies are fundamental in understanding the early universe, serving as markers for massive galaxy formation and large-scale structure. The MGCLS offers deep radio observations across multiple galaxy clusters in the suthern sky, presenting an excellent opportunity to identify HzRG candidates.
 
 ## Available Catalogues
-A comprehensive list of 2249 HzRG candidates identified using 1.28 GHz data. These candidates were selected based on non-detections in all-sky optical and infrared catalogues, combined with ultra-steep spectrum criteria (spectral index α < -1).
+A comprehensive list of 1817 HzRG candidates identified using 1.28 GHz data, over a non-contiguous sky area of ≈ 43.2 deg^2. These candidates were selected based on non-detections in all-sky optical and infrared catalogues from the Dark Energy Camera Legacy Survey (DECaLS) and the All-sky Wide Infrared Survey Explorer (AllWISE), combined with ultra-steep spectrum criteria (α < -1).
 
-Our seach includes the following HzRG candidate catalogues:
+This catalogue includes HzRG candidate in the following fields:
 * Abell 22
 * Abell 2744
 * Abell 2751
@@ -39,8 +39,8 @@ Our seach includes the following HzRG candidate catalogues:
 * J0738.1-7506
 * J0948.6-8327
 * J1705.1-8210
-
-The catalogues are provided in one big file in ``fits`` format for ease of use. Each entry includes pertinent information such as source name, coordinates, flux densities, angular sizes, spectral indices and field names.
+* 
+The catalogue includes information such as source name, coordinates, flux densities, angular sizes, spectral index  measurements and their respective model flags and field names.
 
 
 
