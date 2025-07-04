@@ -39,7 +39,7 @@ This catalogue includes HzRG candidate in the following fields:
 * J0738.1-7506
 * J0948.6-8327
 * J1705.1-8210
-* 
+
 The catalogue includes information such as source name, coordinates, flux densities, angular sizes, spectral index  measurements and their respective model flags and field names.
 
 
